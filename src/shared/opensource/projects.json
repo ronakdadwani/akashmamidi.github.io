@@ -84,15 +84,27 @@
     },
     {
       "id": "MDEwOlJlcG9zaXRvcnkxODIxMjk3NTQ=",
-      "name": "Survival_3D_Game",
+      "name": "Portfolio",
       "createdAt": "2019-04-18T17:25:51Z",
-      "url": "https://github.com/ashutosh1919/Survival_3D_Game",
-      "description": "Survival Game using Unity3D",
+      "url": "https://github.com/vishalmamidi/vishalmamidi.github.io",
+      "description": "My Portfolio Website",
       "isFork": false,
       "languages": [
         {
-          "name": "C#",
-          "iconifyClass": "logos-c-sharp"
+          "name": "HTML",
+          "iconifyClass": "logos-html-5"
+        },
+        {
+          "name": "CSS",
+          "iconifyClass": "logos-css-3"
+        },
+        {
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
+        },
+        {
+          "name": "GitHub Actions",
+          "iconifyClass": "logos:github-actions"
         }
       ]
     }
