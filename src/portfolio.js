@@ -122,9 +122,9 @@ const skills = {
       title: "Digital Marketer",
       fileName: "FullStackImg",
       skills: [
-        "⚡ Blends logic, creativity, and algorithms to spark attention",
-        "⚡ Navigates the digital space to put your brand where it matters",
-        "⚡ Always evolving to stay ahead of trends.",
+        "⚡ Drive Organic Growth through SEO, SMO, and content strategies to increase online visibility and website traffic.",
+        "⚡ Manage Paid Campaigns on Google Ads and Meta Ads to generate high-quality leads and maximize ROI.",
+        "⚡ Analyze & Optimize Performance using tools like Google Analytics, Search Console, SEMrush, and Ahrefs.",
       ],
       softwareSkills: [
         {
@@ -185,7 +185,7 @@ const skills = {
       ],
     },
     {
-      title: "SEO + [ Search Engine Optimization] ",
+      title: "SEO [ Search Engine Optimization] ",
       fileName: "CloudInfraImg",
       skills: [
         "⚡ Conduct keyword research, on-page/off-page SEO, Local SEO and technical audits",
@@ -198,7 +198,7 @@ const skills = {
       ],
     },
      {
-       title: "SMO + [ Social Media Optimization] ",
+       title: "SMO [ Social Media Optimization] ",
        fileName: "DesignImg",
        skills: [
          "⚡ Weekly posts planned around awareness, engagement, education, and promotions.",
