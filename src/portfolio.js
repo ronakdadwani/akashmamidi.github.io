@@ -403,7 +403,7 @@ const experience = {
           title: "Digital Marketing Intern",
           company: "Fission Infotech",
           company_url: "https://fission.it/",
-          logo_path: "modak_logo.jpg",
+          logo_path: "Fission_Logo.svg",
           duration: "Aug 2023 - Nov 2023",
           location: "Hyderabad, Telangana",
           description:
