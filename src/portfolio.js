@@ -376,7 +376,7 @@ const experience = {
           title: "Digital Marketing Executive ",
           company: "Bhuvana Group",
           company_url: "https://bhuvanagroup/",
-          logo_path: "vm_logo.jpg",
+          logo_path: "Bhuvanagroup_Logo.png",
           duration: "March 2025 - PRESENT",
           location: "Hyderabad, Telangana",
           description:
@@ -391,7 +391,7 @@ const experience = {
           title: " Digital Marketing SEO",
           company: "Gravitas ",
           company_url: "https://gravitasin.com/",
-          logo_path: "virtusa_logo.jpg",
+          logo_path: "Gravitas_Logo.png",
           duration: "Dec 2023 - Jan 2025",
           location: "Hyderabad, Telangana",
           description:
@@ -430,7 +430,7 @@ const experience = {
           title: "Mentor Digital Marketer for Interns",
           company: "Bhuvanagroup",
           company_url: "https://Bhuvanagroup/",
-          logo_path: "microsoft_logo.png",
+          logo_path: "Bhuvanagroup_Logo.png",
           duration: "June 2025 - Present",
           location: "Hyderabad, Telangana",
           description:
@@ -453,7 +453,7 @@ const experience = {
           company: "NextVVmarketer",
           company_url:
             "https://Nextvvmarketer.com/",
-          logo_path: "kits_logo.png",
+          logo_path: "Nextvvmarketers_Logo.png",
           duration: "Jan 2025 - Mar 2025",
           location: "Warangal, Telangana",
           description:
