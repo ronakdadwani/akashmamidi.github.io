@@ -185,7 +185,7 @@ const skills = {
       ],
     },
     {
-      title: "SEO [ Search Engine Optimization] ",
+      title: "SEO + [ Search Engine Optimization] ",
       fileName: "CloudInfraImg",
       skills: [
         "⚡ Conduct keyword research, on-page/off-page SEO, Local SEO and technical audits",
@@ -194,174 +194,21 @@ const skills = {
         "⚡ Monitor performance using tools like Google Search Console, Google Analytics, Ahrefs, SEMrush and Moz",
       ],
       softwareSkills: [
-        {
-          skillName: "AWS",
-          fontAwesomeClassname: "logos:aws",
-          // style: {
-          //   color: "#FF9900",
-          // },
-        },
-        {
-          skillName: "Azure",
-          fontAwesomeClassname: "logos:microsoft-azure",
-          // style: {
-          //   color: "#0089D6",
-          // },
-        },
-        {
-          skillName: "GCP",
-          fontAwesomeClassname: "logos:google-cloud",
-          style: {
-            color: "#4285F4",
-          },
-        },
-        {
-          skillName: "Docker",
-          fontAwesomeClassname: "logos:docker-icon",
-          style: {
-            color: "#1488C6",
-          },
-        },
-        {
-          skillName: "Kubernetes",
-          fontAwesomeClassname: "simple-icons:kubernetes",
-          style: {
-            color: "#326CE5",
-          },
-        },
-        {
-          skillName: "Prometheus",
-          fontAwesomeClassname: "simple-icons:prometheus",
-          style: {
-            color: "#F06101",
-          },
-        },
-        {
-          skillName: "Grafana",
-          fontAwesomeClassname: "logos:grafana",
-          style: {
-            color: "#EC8D27",
-          },
-        },
-        {
-          skillName: "Terraform",
-          fontAwesomeClassname: "logos:terraform-icon",
-          style: {
-            color: "#4040B2",
-          },
-        },
-        {
-          skillName: "Github Actions",
-          fontAwesomeClassname: "logos:github-actions",
-          style: {
-            color: "#2088FF",
-          },
-        },
-        {
-          skillName: "Github Pages",
-          fontAwesomeClassname: "simple-icons:githubpages",
-          style: {
-            color: "#000000",
-          },
-        },
-        {
-          skillName: "Apache Kafka",
-          fontAwesomeClassname: "simple-icons:apachekafka",
-          style: {
-            color: "#000000",
-          },
-        },
-        {
-          skillName: "RabbitMQ",
-          fontAwesomeClassname: "simple-icons:rabbitmq",
-          style: {
-            color: "#F06101",
-          },
-        },
-        {
-          skillName: "OpenSearch",
-          fontAwesomeClassname: "simple-icons:opensearch",
-          style: {
-            color: "#3162a7",
-          },
-          // https://icon-sets.iconify.design/logos/elasticsearch/
-        },
-        {
-          skillName: "ElasticSearch",
-          fontAwesomeClassname: "logos:elasticsearch",
-          style: {
-            color: "#3162a7",
-          },
-        },
-        {
-          skillName: "Logstash",
-          fontAwesomeClassname: "logos:logstash",
-          style: {
-            color: "#00BFB3",
-          },
-        },
-        {
-          skillName: "Beats",
-          fontAwesomeClassname: "logos:beats",
-          style: {
-            color: "#0077CC",
-          },
-        },
-        {
-          skillName: "Fluentd",
-          fontAwesomeClassname: "simple-icons:fluentd",
-          style: {
-            color: "#3162A7",
-          },
-        },
-        {
-          skillName: "Fluentbit",
-          fontAwesomeClassname: "simple-icons:fluentbit",
-          style: {
-            color: "#3162A7",
-          },
-        },
+       
       ],
     },
-    // {
-    //   title: "UI/UX Design",
-    //   fileName: "DesignImg",
-    //   skills: [
-    //     "⚡ Designing highly attractive user interface for mobile and web applications",
-    //     "⚡ Customizing logo designs and building logos from scratch",
-    //     "⚡ Creating the flow of application functionalities to optimize user experience",
-    //   ],
-    //   softwareSkills: [
-    //     {
-    //       skillName: "Adobe XD",
-    //       fontAwesomeClassname: "simple-icons:adobexd",
-    //       style: {
-    //         color: "#FF2BC2",
-    //       },
-    //     },
-    //     {
-    //       skillName: "Figma",
-    //       fontAwesomeClassname: "simple-icons:figma",
-    //       style: {
-    //         color: "#F24E1E",
-    //       },
-    //     },
-    //     {
-    //       skillName: "Adobe Illustrator",
-    //       fontAwesomeClassname: "simple-icons:adobeillustrator",
-    //       style: {
-    //         color: "#FF7C00",
-    //       },
-    //     },
-    //     {
-    //       skillName: "Inkscape",
-    //       fontAwesomeClassname: "simple-icons:inkscape",
-    //       style: {
-    //         color: "#000000",
-    //       },
-    //     },
-    //   ],
-    // },
+     {
+       title: "SMO + [ Social Media Optimization] ",
+       fileName: "DesignImg",
+       skills: [
+         "⚡ Weekly posts planned around awareness, engagement, education, and promotions.",
+         "⚡ Use trends, hashtags, and interaction to boost reach and growth.",
+         "⚡ Track insights to refine content and improve results.",
+       ],
+       softwareSkills: [
+         
+       ],
+     },
   ],
 };
 
