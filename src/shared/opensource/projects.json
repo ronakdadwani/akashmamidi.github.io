@@ -9,7 +9,7 @@
       "isFork": false,
       "languages": [
         {
-        //  "name": "GitHub Actions",
+          "name": "GitHub Actions",
          // "iconifyClass": "logos:github-actions"
         }
       ]
