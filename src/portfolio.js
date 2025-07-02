@@ -464,7 +464,7 @@ const experience = {
           title: "Digital Marketing lecture",
           company: "SSK Seva Samaj",
           company_url: "https://.com/",
-          logo_path: "github_logo.png",
+          logo_path: "SSK.jpg",
           duration: "12th Jan 2025",
           location: "Warangal",
           description:
