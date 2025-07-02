@@ -122,37 +122,11 @@ const skills = {
       title: "Digital Marketer",
       fileName: "FullStackImg",
       skills: [
-        "⚡ Drive Organic Growth through SEO, SMO, and content strategies to increase online visibility and website traffic.",
-        "⚡ Manage Paid Campaigns on Google Ads and Meta Ads to generate high-quality leads and maximize ROI.",
-        "⚡ Analyze & Optimize Performance using tools like Google Analytics, Search Console, SEMrush, and Ahrefs.",
+        "⚡ Amplify brand visibility through organic SEO tactics, SMO outreach, and content-driven campaigns.",
+        "⚡ Orchestrate performance-driven ad campaigns on Google and Meta to attract and generate leads.",
+        "⚡ Gauge campaign success through advanced reporting platforms including GA, GSC, Ahrefs, Ubersuggest, Moz.",
       ],
       softwareSkills: [
-        {
-          skillName: "Java",
-          fontAwesomeClassname: "logos:java",
-        },
-        {
-          skillName: "Spring Boot",
-          fontAwesomeClassname: "logos:spring-icon",
-        },
-        {
-          skillName: "MySQL",
-          fontAwesomeClassname: "logos:mysql",
-        },
-        {
-          skillName: "PostgreSQL",
-          fontAwesomeClassname: "logos:postgresql",
-          style: {
-            color: "#336791",
-          },
-        },
-        {
-          skillName: "MongoDB",
-          fontAwesomeClassname: "simple-icons:mongodb",
-          style: {
-            color: "#47A248",
-          },
-        },
         // {
         //   skillName: "HTML5",
         //   fontAwesomeClassname: "simple-icons:html5",
@@ -185,7 +159,7 @@ const skills = {
       ],
     },
     {
-      title: "SEO [ Search Engine Optimization] ",
+      title: "SEO [ Search Engine Optimization ] ",
       fileName: "CloudInfraImg",
       skills: [
         "⚡ Conduct keyword research, on-page/off-page SEO, Local SEO and technical audits",
@@ -198,12 +172,48 @@ const skills = {
       ],
     },
      {
-       title: "SMO [ Social Media Optimization] ",
+       title: "SMO [ Social Media Optimization ] ",
        fileName: "DesignImg",
        skills: [
          "⚡ Weekly posts planned around awareness, engagement, education, and promotions.",
          "⚡ Use trends, hashtags, and interaction to boost reach and growth.",
          "⚡ Track insights to refine content and improve results.",
+       ],
+       softwareSkills: [
+         
+       ],
+     },
+    {
+       title: "Content Marketing ",
+       fileName: "DesignImg",
+       skills: [
+         "⚡ Create SEO-optimized blogs, website content, social media posts, and ad copy",
+         "⚡ Align content with brand voice and user intent",
+         "⚡ Focus on engagement, storytelling, and lead generation",
+       ],
+       softwareSkills: [
+         
+       ],
+     },
+    {
+       title: "Google Ads ",
+       fileName: "DesignImg",
+       skills: [
+         "⚡ Set up and manage campaign ads targeting relevant keywords.",
+         "⚡ Optimize ad budget, bidding, and quality score for better performance.",
+         "⚡ Monitor clicks, conversions, and ROI to improve campaign results.",
+       ],
+       softwareSkills: [
+         
+       ],
+     },
+    {
+       title: "Meta Ads",
+       fileName: "DesignImg",
+       skills: [
+         "⚡ Run targeted ads using custom and lookalike audiences.",
+         "⚡ Use eye-catching creatives with strong CTAs.",
+         "⚡ Track and optimize for reach, leads, and conversions.",
        ],
        softwareSkills: [
          
