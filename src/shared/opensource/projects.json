@@ -9,8 +9,8 @@
       "isFork": false,
       "languages": [
         {
-          "name": "GitHub Actions",
-         // "iconifyClass": "logos:github-actions"
+          "name": "",
+          "iconifyClass": "logos:"
         }
       ]
     },
@@ -23,12 +23,12 @@
       "isFork": false,
       "languages": [
         {
-       //   "name": "Spring Native",
-        //  "iconifyClass": "logos:spring-icon"
+          "name": "",
+         "iconifyClass": "logos:"
         },
         {
-       //   "name": "Gradle",
-       //   "iconifyClass": "vscode-icons:file-type-light-gradle"
+          "name": "",
+          "iconifyClass": "vscode-icons:file-type-light-gradle"
         }
       ]
     },
@@ -41,12 +41,12 @@
       "isFork": false,
       "languages": [
         {
-      //    "name": "Spring Boot",
-       //   "iconifyClass": "logos:spring-icon"
+          "name": "",
+          "iconifyClass": "logos:"
         },
         {
-       //   "name": "Azure",
-       //   "iconifyClass": "logos:microsoft-azure"
+          "name": "",
+          "iconifyClass": "logos:"
         }
       ]
     },
@@ -59,12 +59,12 @@
       "isFork": false,
       "languages": [
         {
-     //     "name": "Spring Boot",
-     //     "iconifyClass": "logos:spring-icon"
+          "name": "",
+          "iconifyClass": "logos:"
         },
         {
-      //    "name": "Gradle",
-      //    "iconifyClass": "vscode-icons:file-type-light-gradle"
+          "name": "",
+          "iconifyClass": "vscode-icons:file-type-light-gradle"
         }
       ]
     },
@@ -77,8 +77,8 @@
       "isFork": false,
       "languages": [
         {
-       //   "name": "Python",
-       //   "iconifyClass": "logos-python"
+          "name": "",
+          "iconifyClass": "logos:"
         }
       ]
     },
@@ -91,20 +91,20 @@
       "isFork": false,
       "languages": [
         {
-      //    "name": "HTML",
-      //    "iconifyClass": "logos-html-5"
+          "name": "",
+          "iconifyClass": "logos:"
         },
         {
-       //   "name": "CSS",
-       //   "iconifyClass": "logos-css-3"
+          "name": "",
+          "iconifyClass": "logos:"
         },
         {
-      //    "name": "JavaScript",
-      //    "iconifyClass": "logos-javascript"
+          "name": "",
+          "iconifyClass": "logos: "
         },
         {
-       //   "name": "GitHub Actions",
-      //    "iconifyClass": "logos:github-actions"
+          "name": "",
+          "iconifyClass": "logos:"
         }
       ]
     }
