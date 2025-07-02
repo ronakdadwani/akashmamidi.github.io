@@ -17,4 +17,4 @@ jobs:
       contents: read
       pages: write
       id-token: write
-    uses: vishalmamidi/workflows/.github/workflows/deploy-react-pages.yaml@main
+    uses: vishalmamidi/workflows/.github/workflows/deploy-react-pages.yml@main
