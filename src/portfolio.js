@@ -26,8 +26,8 @@ const greeting = {
     "Strategic thinker in digital, building robust online presences and fostering engagement.",
   resumeLink:
     "https://drive.google.com/file/d/15dLyn3eOMByX7pFFXIyCWnnp9lygX6yn/view?usp=sharing",
-  portfolio_repository: "https://github.com/vishalmamidi",
-  githubProfile: "https://github.com/vishalmamidi",
+  portfolio_repository: "https://github.com/",
+  githubProfile: "https://github.com/",
 };
 
 const socialMediaLinks = [
@@ -225,46 +225,7 @@ const skills = {
 // Education Page
 const competitiveSites = {
   competitiveSites: [
-   /* {
-      siteName: "HackerRank",
-      iconifyClassname: "simple-icons:hackerrank",
-      style: {
-        color: "#2EC866",
-      },
-      profileLink: "https://www.hackerrank.com/VishalMamidi",
-    },
-    {
-      siteName: "Codechef",
-      iconifyClassname: "simple-icons:codechef",
-      style: {
-        color: "#5B4638",
-      },
-      profileLink: "https://www.codechef.com/users/vishalmamidi",
-    },
-    {
-      siteName: "Codeforces",
-      iconifyClassname: "simple-icons:codeforces",
-      style: {
-        color: "#1F8ACB",
-      },
-      profileLink: "http://codeforces.com/profile/vishalmamidi",
-    },*/
-    {
-      siteName: "Hackerearth",
-      iconifyClassname: "simple-icons:hackerearth",
-      style: {
-        color: "#323754",
-      },
-      profileLink: "https://www.hackerearth.com/@vishalmamidi",
-    },
-    {
-      siteName: "Kaggle",
-      iconifyClassname: "simple-icons:kaggle",
-      style: {
-        color: "#20BEFF",
-      },
-      profileLink: "https://www.kaggle.com/vishalmamidi",
-    },
+  
   ],
 };
 
