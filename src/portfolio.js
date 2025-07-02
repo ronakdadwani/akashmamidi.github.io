@@ -7,21 +7,21 @@ const settings = {
 
 //SEO Related settings
 const seo = {
-  title: "Vishal's Portfolio",
+  title: "Akash's Portfolio",
   description:
     "A passionate individual who always thrives to work on end to end products which develop sustainable and scalable social and technical systems to create impact.",
   og: {
-    title: "Vishal Mamidi Portfolio",
+    title: "Akash Mamidi Portfolio",
     type: "website",
-    url: "http://vishalmamidi.github.io/",
+    url: "http://akashmamidi.github.io/",
   },
 };
 
 //Home Page
 const greeting = {
-  title: "Vishal Mamidi",
-  logo_name: "VishalMamidi",
-  nickname: "vishal0x11",
+  title: "Akash Mamidi",
+  logo_name: "AkashMamidi",
+  nickname: "akashmamidi",
   subTitle:
     "A passionate individual who always thrives to work on end to end products which develop sustainable and scalable social and technical systems to create impact.",
   resumeLink:
