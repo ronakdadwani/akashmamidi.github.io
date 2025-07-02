@@ -9,7 +9,7 @@ const settings = {
 const seo = {
   title: "Akash's Portfolio",
   description:
-    "A passionate individual who always thrives to work on end to end products which develop sustainable and scalable social and technical systems to create impact.",
+    "Strategic thinker in digital, building robust online presences and fostering engagement.",
   og: {
     title: "Akash Mamidi Portfolio",
     type: "website",
@@ -23,7 +23,7 @@ const greeting = {
   logo_name: "AkashMamidi",
   nickname: "akashmamidi",
   subTitle:
-    "A passionate individual who always thrives to work on end to end products which develop sustainable and scalable social and technical systems to create impact.",
+    "Strategic thinker in digital, building robust online presences and fostering engagement.",
   resumeLink:
     "https://drive.google.com/file/d/1Pa0VNEPeVvUZr5lMlXbRgVy0RPyEXw5z/view?usp=sharing",
   portfolio_repository: "https://github.com/vishalmamidi",
@@ -32,34 +32,16 @@ const greeting = {
 
 const socialMediaLinks = [
   {
-    name: "Github",
-    link: "https://github.com/akashmamidi",
-    fontAwesomeIcon: "fa-github", // Reference https://fontawesome.com/icons/github?style=brands
-    backgroundColor: "#181717", // Reference https://simpleicons.org/?q=github
+    name: "Instagram",
+    link: "https://www.instagram.com/akashsamamidi/",
+    fontAwesomeIcon: "fa-instagram", // Reference https://fontawesome.com/icons/instagram?style=brands
+    backgroundColor: "#E4405F", // Reference https://simpleicons.org/?q=instagram
   },
   {
     name: "LinkedIn",
-    link: "https://www.linkedin.com/in/vishal-mamidi/",
+    link: "https://www.linkedin.com/in/akashmamidi/",
     fontAwesomeIcon: "fa-linkedin-in", // Reference https://fontawesome.com/icons/linkedin-in?style=brands
     backgroundColor: "#0077B5", // Reference https://simpleicons.org/?q=linkedin
-  },
-  {
-    name: "YouTube",
-    link: "https://www.youtube.com/@Vishal_Mamidi",
-    fontAwesomeIcon: "fa-youtube", // Reference https://fontawesome.com/icons/youtube?style=brands
-    backgroundColor: "#FF0000", // Reference https://simpleicons.org/?q=youtube
-  },
-  {
-    name: "Gmail",
-    link: "mailto:mamidivishalsa@gmail.com",
-    fontAwesomeIcon: "fa-google", // Reference https://fontawesome.com/icons/google?style=brands
-    backgroundColor: "#D14836", // Reference https://simpleicons.org/?q=gmail
-  },
-  {
-    name: "Twitter",
-    link: "https://twitter.com/vishal_mamidi",
-    fontAwesomeIcon: "fa-twitter", // Reference https://fontawesome.com/icons/twitter?style=brands
-    backgroundColor: "#1DA1F2", // Reference https://simpleicons.org/?q=twitter
   },
   {
     name: "Facebook",
@@ -68,10 +50,28 @@ const socialMediaLinks = [
     backgroundColor: "#1877F2", // Reference https://simpleicons.org/?q=facebook
   },
   {
-    name: "Instagram",
-    link: "https://www.instagram.com/vishal_mamidi/",
-    fontAwesomeIcon: "fa-instagram", // Reference https://fontawesome.com/icons/instagram?style=brands
-    backgroundColor: "#E4405F", // Reference https://simpleicons.org/?q=instagram
+    name: "YouTube",
+    link: "https://www.youtube.com/@Vishal_Mamidi",
+    fontAwesomeIcon: "fa-youtube", // Reference https://fontawesome.com/icons/youtube?style=brands
+    backgroundColor: "#FF0000", // Reference https://simpleicons.org/?q=youtube
+  },
+  {
+    name: "Twitter",
+    link: "https://twitter.com/",
+    fontAwesomeIcon: "fa-twitter", // Reference https://fontawesome.com/icons/twitter?style=brands
+    backgroundColor: "#1DA1F2", // Reference https://simpleicons.org/?q=twitter
+  },
+  {
+    name: "Gmail",
+    link: "mailto:mamidiakash13@gmail.com",
+    fontAwesomeIcon: "fa-google", // Reference https://fontawesome.com/icons/google?style=brands
+    backgroundColor: "#D14836", // Reference https://simpleicons.org/?q=gmail
+  },
+  {
+    name: "Github",
+    link: "https://github.com/akashmamidi",
+    fontAwesomeIcon: "fa-github", // Reference https://fontawesome.com/icons/github?style=brands
+    backgroundColor: "#181717", // Reference https://simpleicons.org/?q=github
   },
 ];
 
@@ -120,11 +120,11 @@ const skills = {
     // },
     {
       title: "Digital Marketer",
-      fileName: "FullStackImg",
+     // fileName: "FullStackImg",
       skills: [
-        "⚡ Developing various REST APIs using Spring Boot, Spring Native, Spring WebFlux",
-        "⚡ Developing various Event Driven micro-services with Spring Cloud Stream, Spring Functions with variety of message brokers like Apache Kafka, RabbitMQ",
-        "⚡ Configuring applications with various logging agents like Log4j2, Logback with simple facade SLF4J",
+        "⚡ Blends logic, creativity, and algorithms to spark attention",
+        "⚡ Navigates the digital space to put your brand where it matters",
+        "⚡ Always evolving to stay ahead of trends.",
       ],
       softwareSkills: [
         {
