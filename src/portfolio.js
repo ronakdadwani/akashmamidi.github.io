@@ -225,7 +225,7 @@ const skills = {
 // Education Page
 const competitiveSites = {
   competitiveSites: [
-    {
+   /* {
       siteName: "HackerRank",
       iconifyClassname: "simple-icons:hackerrank",
       style: {
@@ -248,7 +248,7 @@ const competitiveSites = {
         color: "#1F8ACB",
       },
       profileLink: "http://codeforces.com/profile/vishalmamidi",
-    },
+    },*/
     {
       siteName: "Hackerearth",
       iconifyClassname: "simple-icons:hackerearth",
