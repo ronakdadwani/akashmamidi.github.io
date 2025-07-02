@@ -25,7 +25,7 @@ const greeting = {
   subTitle:
     "Strategic thinker in digital, building robust online presences and fostering engagement.",
   resumeLink:
-    "https://drive.google.com/file/d/1Pa0VNEPeVvUZr5lMlXbRgVy0RPyEXw5z/view?usp=sharing",
+    "https://drive.google.com/file/d/15dLyn3eOMByX7pFFXIyCWnnp9lygX6yn/view?usp=sharing",
   portfolio_repository: "https://github.com/vishalmamidi",
   githubProfile: "https://github.com/vishalmamidi",
 };
