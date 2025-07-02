@@ -28,7 +28,7 @@
         },
         {
           "name": "",
-          "iconifyClass": "vscode-icons:file-type-light-gradle"
+          "iconifyClass": ""
         }
       ]
     },
@@ -64,7 +64,7 @@
         },
         {
           "name": "",
-          "iconifyClass": "vscode-icons:file-type-light-gradle"
+          "iconifyClass": ""
         }
       ]
     },
