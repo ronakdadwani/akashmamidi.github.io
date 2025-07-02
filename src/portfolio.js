@@ -51,7 +51,7 @@ const socialMediaLinks = [
   },
   {
     name: "YouTube",
-    link: "https://www.youtube.com/@Vishal_Mamidi",
+    link: "https://www.youtube.com/",
     fontAwesomeIcon: "fa-youtube", // Reference https://fontawesome.com/icons/youtube?style=brands
     backgroundColor: "#FF0000", // Reference https://simpleicons.org/?q=youtube
   },
@@ -120,7 +120,7 @@ const skills = {
     // },
     {
       title: "Digital Marketer",
-     // fileName: "FullStackImg",
+      fileName: "FullStackImg",
       skills: [
         "⚡ Blends logic, creativity, and algorithms to spark attention",
         "⚡ Navigates the digital space to put your brand where it matters",
@@ -185,13 +185,13 @@ const skills = {
       ],
     },
     {
-      title: "DevOps Architecture",
+      title: "SEO [ Search Engine Optimization] ",
       fileName: "CloudInfraImg",
       skills: [
-        "⚡ Automating deployments over infrastructure using GitHub Actions",
-        "⚡ Automating code coverages, static code analysis, vulnerabilities scans and deployment of reports to GitHub Pages",
-        "⚡ Deploying and managing applications on Kubernetes clusters",
-        "⚡ Automating cloud infrastructure provisioning using Terraform scrips",
+        "⚡ Conduct keyword research, on-page/off-page SEO, Local SEO and technical audits",
+        "⚡ Perform competitor analysis to identify SEO opportunities and develop effective strategies",
+        "⚡ Improve search rankings and drive organic traffic",
+        "⚡ Monitor performance using tools like Google Search Console, Google Analytics, Ahrefs, SEMrush and Moz",
       ],
       softwareSkills: [
         {
@@ -415,15 +415,15 @@ const degrees = {
   degrees: [
     {
       title: "Kakatiya Institute of Technology and Science Warangal",
-      subtitle: "B.Tech. in Information Technology",
+      subtitle: "B.Tech. in Computer Science and Engineering",
       // logo_path: "iiitk_logo.png",
       logo_path: "kits_logo.png",
       alt_name: "KITS Kurnool",
-      duration: "2013 - 2017",
+      duration: "2015 - 2019",
       descriptions: [
+        "⚡ I have Studied HTML, CSS, Java etc",
         "⚡ I have studied basic software engineering subjects like DS, Algorithms, DBMS, OS, CA, AI etc.",
-        "⚡ Apart from this, I have done courses on DevOps, Cloud Computing and Full Stack Development.",
-        "⚡ Secured 1st position in “Programming Contest” event at the Sumshodini-16 (2016). Which was conducted between 80% of Computer Science & Information Technology Students",
+        "⚡ Achieved Ethical Hacking certification at Sumshodini-16 (2016). Which was conducted between 80% of Computer Science & Information Technology Students.",
       ],
       website_link: "https://www.kitsw.ac.in/",
     },
@@ -548,48 +548,48 @@ const experience = {
   title: "Experience",
   subtitle: "Work, Internship and Volunteership",
   description:
-    "I have worked with many evolving startups as ML and DL Developer, Designer and Software Architect. I have also worked with some well established companies mostly as AI Developer. I love organising events and that is why I am also involved with many opensource communities as a representative.",
+    "I began my journey with an internship at Fission Labs, focusing on SEO and SMO. Later, I joined Gravitas Digital as an SEO Executive and was promoted to Digital Marketing Executive. Now at Bhuvana Group, I handle digital strategies to boost visibility and drive quality leads.",
   header_image_path: "experience.svg",
   sections: [
     {
       title: "Work",
       experiences: [
         {
-          title: "Senior Software Engineer",
-          company: "ValueMomentum. Pvt. Ltd.",
-          company_url: "https://www.linkedin.com/company/valuemomentum/",
+          title: "Digital Marketing Executive ",
+          company: "Bhuvana Group",
+          company_url: "https://bhuvanagroup/",
           logo_path: "vm_logo.jpg",
-          duration: "Aug 2021 - PRESENT",
+          duration: "March 2025 - PRESENT",
           location: "Hyderabad, Telangana",
           description:
-            "I am working on automating build and deployment by setting up CI/CD pipelines. "+
-            "Deploying and managing applications on Kubernetes clusters. "+
-            "Automating cloud infrastructure provisioning using Terraform scrips. "+
-            "Automating code coverages, static code analysis, vulnerabilities scans and deploying various reports to GitHub Pages. "+
-            "Developing various Event Driven micro-services with Spring Cloud Stream, Spring Functions with variety of message brokers like Apache Kafka, RabbitMQ",
+            "I am working on SEO and SMO strategies to improve online visibility and engagement.  "+
+            "Planning and executing content marketing campaigns. "+
+            "Running paid ads on Google and Meta platforms.  "+
+            "Managing WhatsApp campaigns for direct audience outreach.  "+
+            "Using tools like Ahrefs, Ubersuggest, SEMrush, Google Search Console, and Google Analytics to track performance, optimize results, and generate insights.",
           color: "#0879bf",
         },
         {
-          title: "Software Engineer",
-          company: "Virtusa Consulting Services. Pvt. Ltd.",
-          company_url: "https://www.linkedin.com/company/virtusa/",
+          title: " Digital Marketing SEO",
+          company: "Gravitas ",
+          company_url: "https://gravitasin.com/",
           logo_path: "virtusa_logo.jpg",
-          duration: "Dec 2018 - Aug 2021",
-          location: "Chennai, Tamil Nadu",
+          duration: "Dec 2023 - Jan 2025",
+          location: "Hyderabad, Telangana",
           description:
-            "Developing various REST micro-services with Spring Web, Spring WebFlux, Spring Cloud. "+
-            "Develop PL/SQL procedure for various internal banking operations ",
+            "At Gravitas, I worked on end-to-end SEO and SMO strategies "+
+            "Managed content marketing campaigns, and gained hands-on experience with Google Ads and Meta Ads at a foundational level.",
           color: "#9b1578",
         },
         {
-          title: "Process Associate",
-          company: "Modak Analytics. Pvt. Ltd.",
-          company_url: "https://modak.com/",
+          title: "Digital Marketing Intern",
+          company: "Fission Infotech",
+          company_url: "https://fission.it/",
           logo_path: "modak_logo.jpg",
-          duration: "Dec 2017 - May 2018",
+          duration: "Aug 2023 - Nov 2023",
           location: "Hyderabad, Telangana",
           description:
-            "Worked on data processing, cleansing to obtain information limitations for data processing projects using ETL Method.",
+            "Worked on SEO focusing on quality backlinks and basic optimization. During this time, I also learned SMO to enhance brand presence across platforms.",
           color: "#fc1f20",
         },
       ],
@@ -598,25 +598,25 @@ const experience = {
       title: "Volunteerships",
       experiences: [
         // {
-        //   title: "Google Explore ML Facilitator",
-        //   company: "Google",
-        //   company_url: "https://about.google/",
+        //   title: "Mentor igital marketer for Interns",
+        //   company: "Bhuvanagroup",
+        //   company_url: "https://Bhuvanagroup/",
         //   logo_path: "google_logo.png",
-        //   duration: "June 2019 - April 2020",
+        //   duration: "June 2025 - Present",
         //   location: "Hyderabad, Telangana",
         //   description:
-        //     "Explore Machine Learning (ML) is a Google-sponsored program for university students to get started with Machine Learning. The curriculum offers 3 tracks of ML Content (Beginner, Intermediate, Advanced) and relies on university student facilitators to train other students on campus and to build opensource projects under this program.",
+        //     "Currently mentoring digital marketing interns at Bhuvana Group, helping them develop practical skills in SEO, SMO, content marketing, and paid ads.",
         //   color: "#4285F4",
         // },
         {
-          title: "Microsoft Student Partner",
-          company: "Microsoft",
-          company_url: "https://www.microsoft.com/",
+          title: "Mentor Digital Marketer for Interns",
+          company: "Bhuvanagroup",
+          company_url: "https://Bhuvanagroup/",
           logo_path: "microsoft_logo.png",
-          duration: "Aug 2016 - May 2017",
+          duration: "June 2025 - Present",
           location: "Hyderabad, Telangana",
           description:
-            "Microsoft Student Partner is a program for university students to lead the awareness and use of Cloud especially Azure tools in the development of their projects and startups. Under this program, I have organized hands on workshops and seminars to teach Cloud Computing concepts to students.",
+            "Currently mentoring digital marketing interns at Bhuvana Group, helping them develop practical skills in SEO, SMO, content marketing, and paid ads.",
           color: "#D83B01",
         },
         // {
@@ -631,26 +631,26 @@ const experience = {
         //   color: "#000000",
         // },
         {
-          title: "Developer Students Club Member",
-          company: "KITS Warangal",
+          title: "Digital Marketing Trainer",
+          company: "NextVVmarketer",
           company_url:
-            "https://www.kitsw.ac.in/",
+            "https://Nextvvmarketer.com/",
           logo_path: "kits_logo.png",
-          duration: "Jan 2016 - May 2017",
+          duration: "Jan 2025 - Mar 2025",
           location: "Warangal, Telangana",
           description:
-            "We have well established developer club in college. We have developed many interdisciplinary projects under the membership of this club. We have organised workshops and activities on web services development and cloud.",
+            "I conduct digital marketing lectures for employees at NextVVMarketers, helping them enhance their practical skills and industry knowledge.",
           color: "#0C9D58",
         },
         {
-          title: "Developer Program Member",
-          company: "Github",
-          company_url: "https://github.com/",
+          title: "Digital Marketing lecture",
+          company: "SSK Seva Samaj",
+          company_url: "https://.com/",
           logo_path: "github_logo.png",
-          duration: "July 2022 - PRESENT",
-          location: "Work From Home",
+          duration: "12th Jan 2025",
+          location: "Warangal",
           description:
-            "I am actively contributing to many opensource projects. I have contributed to projects of organisations like Fluentd, Fluentbit, OpenSearch etc. These contributions include bug fixes, feature requests and formulating proper documentation for project.",
+            "Organized a digital marketing awareness event for the SSK Seva Samaj community in Warangal, empowering members with knowledge on online growth strategies.",
           color: "#181717",
         },
       ],
@@ -662,7 +662,7 @@ const experience = {
 const projectsHeader = {
   title: "Projects",
   description:
-    "My projects makes use of vast variety of latest technology tools. My best experience is to create GitHub Actions workflows and deploy them to kubernetes.",
+    "My projects leverage a wide range of the latest digital marketing tools and platforms. My best experience is creating and managing data-driven campaigns across Google Ads, Meta Ads, and SEO tools like SEMrush and Ahrefs.",
   avatar_image_path: "projects_image.svg",
 };
 
@@ -677,16 +677,16 @@ const publicationsHeader = {
 const contactPageData = {
   contactSection: {
     title: "Contact Me",
-    email: "mailto:mamidivishalsa@gmail.com",
+    email: "mailto:mamidiakash13@gmail.com",
     profile_image_path: "me.png",
     description:
-      "I am available on almost every social media. You can drop a message. I can help you with Spring Boot, Docker, Kubernetes, GitHub Actions and DevOps operations.",
+      "I am available on almost every social media. You can drop a message. I can help you with Instagram, LinkedIn, Facebook, WhatsApp.",
   },
   blogSection: {
     title: "Blogs",
     subtitle:
       "For individual fundamental empowerment, I like to write powerful lessons that create impact on each of the reader individually to change the core of their character.",
-    link: "https://vishalmamidi.wordpress.com",
+    link: "https://akashsamamidi.wordpress.com",
     avatar_image_path: "blogs_image.svg",
   },
   addressSection: {
@@ -694,11 +694,11 @@ const contactPageData = {
     subtitle:
       "Mattewada, Warangal, Telangana - 506002",
     avatar_image_path: "address_image.svg",
-    location_map_link: "mailto:mamidivishalsa@gmail.com",
+    location_map_link: "mailto:mamidiakash13@gmail.com",
   },
   phoneSection: {
     title: "Phone Number",
-    subtitle: "+91 8074259529",
+    subtitle: "+91 8121580321",
   },
 };
 
