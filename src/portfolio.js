@@ -21,7 +21,7 @@ const seo = {
 const greeting = {
   title: "Akash Mamidi",
   logo_name: "AkashMamidi",
-  nickname: "akashmamidi",
+  nickname: "Akash Sa Mamidi",
   subTitle:
     "Strategic thinker in digital, building robust online presences and fostering engagement.",
   resumeLink:
