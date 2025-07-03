@@ -160,7 +160,7 @@ const skills = {
     },
     {
       title: "SEO [ Search Engine Optimization ] ",
-      fileName: "data_science",
+      fileName: "SkillSection",
       skills: [
         "⚡ Conduct keyword research, on-page/off-page SEO, Local SEO and technical audits",
         "⚡ Perform competitor analysis to identify SEO opportunities and develop effective strategies",
@@ -181,7 +181,7 @@ const skills = {
     },
     {
       title: "Content Marketing ",
-      fileName: "DesignImg",
+      fileName: "Skill",
       skills: [
         "⚡ Create SEO-optimized blogs, website content, social media posts, and ad copy",
         "⚡ Align content with brand voice and user intent",
