@@ -26,8 +26,8 @@ const greeting = {
     "Strategic thinker in digital, building robust online presences and fostering engagement.",
   resumeLink:
     "https://drive.google.com/file/d/15dLyn3eOMByX7pFFXIyCWnnp9lygX6yn/view?usp=sharing",
-  portfolio_repository: "https://github.com/",
-  githubProfile: "https://github.com/",
+  portfolio_repository: "https://www.linkedin.com/in/akashmamidi/",
+  githubProfile: "https://www.linkedin.com/in/akashmamidi/",
 };
 
 const socialMediaLinks = [
@@ -167,66 +167,54 @@ const skills = {
         "⚡ Improve search rankings and drive organic traffic",
         "⚡ Monitor performance using tools like Google Search Console, Google Analytics, Ahrefs, SEMrush and Moz",
       ],
-      softwareSkills: [
-       
-      ],
+      softwareSkills: [],
     },
-     {
-       title: "SMO [ Social Media Optimization ] ",
-       fileName: "DesignImg",
-       skills: [
-         "⚡ Weekly posts planned around awareness, engagement, education, and promotions.",
-         "⚡ Use trends, hashtags, and interaction to boost reach and growth.",
-         "⚡ Track insights to refine content and improve results.",
-       ],
-       softwareSkills: [
-         
-       ],
-     },
     {
-       title: "Content Marketing ",
-       fileName: "DesignImg",
-       skills: [
-         "⚡ Create SEO-optimized blogs, website content, social media posts, and ad copy",
-         "⚡ Align content with brand voice and user intent",
-         "⚡ Focus on engagement, storytelling, and lead generation",
-       ],
-       softwareSkills: [
-         
-       ],
-     },
+      title: "SMO [ Social Media Optimization ] ",
+      fileName: "DesignImg",
+      skills: [
+        "⚡ Weekly posts planned around awareness, engagement, education, and promotions.",
+        "⚡ Use trends, hashtags, and interaction to boost reach and growth.",
+        "⚡ Track insights to refine content and improve results.",
+      ],
+      softwareSkills: [],
+    },
     {
-       title: "Google Ads ",
-       fileName: "DesignImg",
-       skills: [
-         "⚡ Set up and manage campaign ads targeting relevant keywords.",
-         "⚡ Optimize ad budget, bidding, and quality score for better performance.",
-         "⚡ Monitor clicks, conversions, and ROI to improve campaign results.",
-       ],
-       softwareSkills: [
-         
-       ],
-     },
+      title: "Content Marketing ",
+      fileName: "DesignImg",
+      skills: [
+        "⚡ Create SEO-optimized blogs, website content, social media posts, and ad copy",
+        "⚡ Align content with brand voice and user intent",
+        "⚡ Focus on engagement, storytelling, and lead generation",
+      ],
+      softwareSkills: [],
+    },
     {
-       title: "Meta Ads",
-       fileName: "DesignImg",
-       skills: [
-         "⚡ Run targeted ads using custom and lookalike audiences.",
-         "⚡ Use eye-catching creatives with strong CTAs.",
-         "⚡ Track and optimize for reach, leads, and conversions.",
-       ],
-       softwareSkills: [
-         
-       ],
-     },
+      title: "Google Ads ",
+      fileName: "DesignImg",
+      skills: [
+        "⚡ Set up and manage campaign ads targeting relevant keywords.",
+        "⚡ Optimize ad budget, bidding, and quality score for better performance.",
+        "⚡ Monitor clicks, conversions, and ROI to improve campaign results.",
+      ],
+      softwareSkills: [],
+    },
+    {
+      title: "Meta Ads",
+      fileName: "DesignImg",
+      skills: [
+        "⚡ Run targeted ads using custom and lookalike audiences.",
+        "⚡ Use eye-catching creatives with strong CTAs.",
+        "⚡ Track and optimize for reach, leads, and conversions.",
+      ],
+      softwareSkills: [],
+    },
   ],
 };
 
 // Education Page
 const competitiveSites = {
-  competitiveSites: [
-  
-  ],
+  competitiveSites: [],
 };
 
 const degrees = {
@@ -380,10 +368,10 @@ const experience = {
           duration: "March 2025 - PRESENT",
           location: "Hyderabad, Telangana",
           description:
-            "I am working on SEO and SMO strategies to improve online visibility and engagement.  "+
-            "Planning and executing content marketing campaigns. "+
-            "Running paid ads on Google and Meta platforms.  "+
-            "Managing WhatsApp campaigns for direct audience outreach.  "+
+            "I am working on SEO and SMO strategies to improve online visibility and engagement.  " +
+            "Planning and executing content marketing campaigns. " +
+            "Running paid ads on Google and Meta platforms.  " +
+            "Managing WhatsApp campaigns for direct audience outreach.  " +
             "Using tools like Ahrefs, Ubersuggest, SEMrush, Google Search Console, and Google Analytics to track performance, optimize results, and generate insights.",
           color: "#0879bf",
         },
@@ -395,7 +383,7 @@ const experience = {
           duration: "Dec 2023 - Jan 2025",
           location: "Hyderabad, Telangana",
           description:
-            "At Gravitas, I worked on end-to-end SEO and SMO strategies "+
+            "At Gravitas, I worked on end-to-end SEO and SMO strategies " +
             "Managed content marketing campaigns, and gained hands-on experience with Google Ads and Meta Ads at a foundational level.",
           color: "#9b1578",
         },
@@ -451,8 +439,7 @@ const experience = {
         {
           title: "Digital Marketing Trainer",
           company: "NextVVmarketer",
-          company_url:
-            "https://Nextvvmarketer.com/",
+          company_url: "https://Nextvvmarketer.com/",
           logo_path: "Nextvvmarketers_Logo.png",
           duration: "Jan 2025 - Mar 2025",
           location: "Warangal, Telangana",
@@ -485,10 +472,10 @@ const projectsHeader = {
 };
 
 const publicationsHeader = {
-//   title: "Publications",
-//   description:
-//     "I have worked on and published a few research papers and publications of my own.",
-//   avatar_image_path: "projects_image.svg",
+  //   title: "Publications",
+  //   description:
+  //     "I have worked on and published a few research papers and publications of my own.",
+  //   avatar_image_path: "projects_image.svg",
 };
 
 // Contact Page
@@ -509,8 +496,7 @@ const contactPageData = {
   },
   addressSection: {
     title: "Address",
-    subtitle:
-      "Mattewada, Warangal, Telangana - 506002",
+    subtitle: "Mattewada, Warangal, Telangana - 506002",
     avatar_image_path: "address_image.svg",
     location_map_link: "mailto:mamidiakash13@gmail.com",
   },
