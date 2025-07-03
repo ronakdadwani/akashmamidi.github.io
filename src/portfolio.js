@@ -160,7 +160,7 @@ const skills = {
     },
     {
       title: "SEO [ Search Engine Optimization ] ",
-      fileName: "CloudInfraImg",
+      fileName: "data_science",
       skills: [
         "⚡ Conduct keyword research, on-page/off-page SEO, Local SEO and technical audits",
         "⚡ Perform competitor analysis to identify SEO opportunities and develop effective strategies",
