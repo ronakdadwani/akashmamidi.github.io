@@ -28,10 +28,10 @@ class Education extends Component {
               </div>
               <div className="heading-text-div">
                 <h1 className="heading-text" style={{ color: theme.text }}>
-                  Education
+                  certifications
                 </h1>
                 <h3 className="heading-sub-text" style={{ color: theme.text }}>
-                  Certifications
+                  Google Digital Garage , Great Learning Academy , Linkedin Learning
                 </h3>
                 <CompetitiveSites logos={competitiveSites.competitiveSites} />
               </div>
