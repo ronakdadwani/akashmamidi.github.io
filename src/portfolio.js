@@ -214,7 +214,15 @@ const skills = {
 
 // Education Page
 const competitiveSites = {
-  competitiveSites: [],
+  competitiveSites: [
+    {
+      siteName: "HackerRank",
+      iconifyClassname: "simple-icons:hackerrank",
+      style: {
+        color: "#2EC866",
+      },
+      profileLink: "https://www.hackerrank.com/VishalMamidi",
+    },],
 };
 
 const degrees = {
