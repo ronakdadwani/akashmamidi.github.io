@@ -216,12 +216,11 @@ const skills = {
 const competitiveSites = {
   competitiveSites: [
     {
-      siteName: "GoogleDigitalGarage",
-      iconifyClassname: "simple-icons:GoogleDigitalGarage",
+      siteName: "LinkdlnLearning",
+      iconifyClassname: "simple-icons:LinkdlnLearning",
       style: {
         color: "#2EC866",
       },
-      profileLink: "https://www.hackerrank.com/VishalMamidi",
     },],
 };
 
