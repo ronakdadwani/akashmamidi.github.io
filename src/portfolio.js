@@ -216,8 +216,8 @@ const skills = {
 const competitiveSites = {
   competitiveSites: [
     {
-      siteName: "HackerRank",
-      iconifyClassname: "simple-icons:hackerrank",
+      siteName: "GoogleDigitalGarage",
+      iconifyClassname: "simple-icons:GoogleDigitalGarage",
       style: {
         color: "#2EC866",
       },
