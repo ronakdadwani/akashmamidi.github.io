@@ -42,6 +42,7 @@
   font-size: 30px;
   font-family: "Google Sans Regular";
   text-align: center;
+  line-height: 1.25;
 }
 
 @media (max-width: 1380px) {
