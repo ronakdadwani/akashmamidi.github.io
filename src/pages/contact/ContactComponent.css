@@ -35,6 +35,7 @@
 .contact-heading-img-div {
   align-items: center;
   justify-content: center;
+  display: flex;
 }
 
 .blog-heading-img-div {
@@ -44,6 +45,7 @@
 
 .contact-heading-text-div {
   text-align: center;
+  padding-top: 8%;
 }
 
 .blog-heading-text-div {
@@ -52,6 +54,7 @@
 
 .address-heading-text-div {
   text-align: center;
+  padding-top: 8%;
 }
 
 .contact-heading-img-div > * {

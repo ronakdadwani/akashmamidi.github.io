@@ -20,20 +20,21 @@ class Education extends Component {
           <Fade bottom duration={2000} distance="40px">
             <div className="heading-div">
               <div className="heading-img-div">
-                {/* <img
-									src={require("../../assests/images/education.svg")}
-									alt=""
-								/> */}
+                <img
+                  src={require("../../assests/images/education.svg")}
+                  alt=""
+                />
                 <EducationImg theme={theme} />
               </div>
               <div className="heading-text-div">
                 <h1 className="heading-text" style={{ color: theme.text }}>
-                  certifications
+                  Certifications
                 </h1>
                 <h3 className="heading-sub-text" style={{ color: theme.text }}>
-                  Google Digital Garage , Great Learning Academy , Linkedin Learning
+                  Google Digital Garage , Great Learning Academy , Linkedin
+                  Learning
                 </h3>
-                <CompetitiveSites logos={competitiveSites.competitiveSites} />
+                {/* <CompetitiveSites theme={this.props.theme} competitiveSites={competitiveSites.data}/> */}
               </div>
             </div>
           </Fade>
