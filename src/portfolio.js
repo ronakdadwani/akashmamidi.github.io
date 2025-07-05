@@ -221,7 +221,8 @@ const competitiveSites = {
       style: {
         color: "#2EC866",
       },
-    },],
+    },
+  ],
 };
 
 const degrees = {
@@ -490,7 +491,7 @@ const contactPageData = {
   contactSection: {
     title: "Contact Me",
     email: "mailto:mamidiakash13@gmail.com",
-    profile_image_path: "me.png",
+    profile_image_path: "Akash-Mamidi.png",
     description:
       "I am available on almost every social media. You can drop a message. I can help you with Instagram, LinkedIn, Facebook, WhatsApp.",
   },
