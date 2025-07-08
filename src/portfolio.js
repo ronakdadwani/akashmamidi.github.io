@@ -121,6 +121,7 @@ const skills = {
     {
       title: "Digital Marketer",
       fileName: "FullStackImg",
+      image_path: "ui_ux_design.svg",
       skills: [
         "⚡ Amplify brand visibility through organic SEO tactics, SMO outreach, and content-driven campaigns.",
         "⚡ Orchestrate performance-driven ad campaigns on Google and Meta to attract and generate leads.",
@@ -161,6 +162,7 @@ const skills = {
     {
       title: "SEO [ Search Engine Optimization ] ",
       fileName: "SkillSection",
+      image_path: "seoimagefile1.png",
       skills: [
         "⚡ Conduct keyword research, on-page/off-page SEO, Local SEO and technical audits",
         "⚡ Perform competitor analysis to identify SEO opportunities and develop effective strategies",
@@ -172,6 +174,7 @@ const skills = {
     {
       title: "SMO [ Social Media Optimization ] ",
       fileName: "DesignImg",
+      image_path: "smimg2 (2).png",
       skills: [
         "⚡ Weekly posts planned around awareness, engagement, education, and promotions.",
         "⚡ Use trends, hashtags, and interaction to boost reach and growth.",
@@ -182,6 +185,7 @@ const skills = {
     {
       title: "Content Marketing ",
       fileName: "Skill",
+      image_path: "smimg2.png",
       skills: [
         "⚡ Create SEO-optimized blogs, website content, social media posts, and ad copy",
         "⚡ Align content with brand voice and user intent",
@@ -192,6 +196,7 @@ const skills = {
     {
       title: "Google Ads ",
       fileName: "DesignImg",
+      image_path: "googleads.png",
       skills: [
         "⚡ Set up and manage campaign ads targeting relevant keywords.",
         "⚡ Optimize ad budget, bidding, and quality score for better performance.",
@@ -202,6 +207,7 @@ const skills = {
     {
       title: "Meta Ads",
       fileName: "DesignImg",
+      image_path: "meta.png",
       skills: [
         "⚡ Run targeted ads using custom and lookalike audiences.",
         "⚡ Use eye-catching creatives with strong CTAs.",

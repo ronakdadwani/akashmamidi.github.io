@@ -15,7 +15,7 @@ function GetSkillSvg(props) {
     return <FullStackImg theme={props.theme} />;
   else if (props.fileName === "CloudInfraImg")
     return <CloudInfraImg theme={props.theme} />;
-  return <DesignImg theme={props.theme} />;
+  return <DesignImg imagePath={props.image_path} alt={props.title} />;
 }
 
 class SkillSection extends Component {
@@ -28,11 +28,12 @@ class SkillSection extends Component {
             <div className="skills-main-div">
               <Fade left duration={2000}>
                 <div className="skills-image-div">
-                  {/* <img
-                    alt="Vishal is Analysing Data"
-                    src={require(`../../assests/images/${skill.imagePath}`)}
-                  ></img> */}
-                  <GetSkillSvg fileName={skill.fileName} theme={theme} />
+                  <GetSkillSvg
+                    fileName={skill.fileName}
+                    image_path={skill.image_path}
+                    title={skill.title}
+                    theme={theme}
+                  />
                 </div>
               </Fade>
 
